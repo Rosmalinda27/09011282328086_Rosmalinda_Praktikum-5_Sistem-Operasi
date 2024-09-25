@@ -3,7 +3,9 @@ Nama : Rosmalinda <br/>
 Nim : 09011282328086 <br/>
 Kelas : SK3B
 <h2/>
-
+ 
+# Praktikum Job Control
+ 
 ## 1. Eksekusi seluruh profile yang ada :
   **a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :**                                   
        echo “Profile dari /etc/profile” <p/>
@@ -161,15 +163,24 @@ Kelas : SK3B
   **a. Ganti nilai HISTSIZE dari 1000 menjadi 20** <br/>
        $ HISTSIZE=20 <br/>
        $ h <p/>
-       <img src="
+       <img src="https://github.com/user-attachments/assets/fbdb708e-5099-403f-9ad1-25eccf61b0e9" width=500/>
+       <br/>
   **b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir dilakukan** <br/>
        $ !-5 <p/>
+       <img src="https://github.com/user-attachments/assets/deb909e0-5d03-413b-a378-bcc22564f14d" width=500/>
+       <br/>
   **c. Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer** <br/>
        $ !! <p/>
+       <img src="https://github.com/user-attachments/assets/f641fc54-78a9-4fcd-828e-c7b117eba692" width=500/>
+       <br/>
   **d. Ulangi instruksi pada history bufer nomor 150** <br/>
        $ !150 <p/>
+       <img src="https://github.com/user-attachments/assets/893af2eb-e2c7-48f3-8757-f43917962e92" width=500/>
+       <br/>
   **e. Ulangi instruksi dengan prefix “ls”** <br/>
        $ !ls <p/>
+       <img src="https://github.com/user-attachments/assets/fe9d2ea0-894b-485f-85bd-471a047d4a04" width=500/>
+
 
 
 
